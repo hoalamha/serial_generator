@@ -2,4 +2,5 @@
 	{ "model": "DS3615xs", "permanent": "LW" },
 	{ "model": "DS3617xs", "permanent": "OD" },
 	{ "model": "DS916+", "permanent": "NZ" }
+	{ "model": "DS918+", "permanent": "PD" }
 ]
